@@ -1,0 +1,15 @@
+<snippet>
+    <tabTrigger>Grid</tabTrigger>
+    <scope>text.xml</scope>
+    <description>sap.m.Grid XML</description>
+    <content><![CDATA[
+<Grid
+  hSpacing="1"
+  defaultSpan="L12 M12 S12"
+>
+  <content>
+    $1
+  </content>
+</Grid>
+]]></content>
+</snippet>
