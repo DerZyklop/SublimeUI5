@@ -4,9 +4,15 @@
     <description>sap.m.Bar XML</description>
     <content><![CDATA[
 <Bar>
-    <items>
+    <contentLeft>
         ${1:}
-    </items>
+    </contentLeft>
+    <contentMiddle>
+        ${2:}
+    </contentMiddle>
+    <contentRight>
+        ${3:}
+    </contentRight>
 </Bar>
 ]]></content>
 </snippet>
