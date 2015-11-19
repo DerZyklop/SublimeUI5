@@ -1,0 +1,12 @@
+<snippet>
+    <tabTrigger>Bar</tabTrigger>
+    <scope>text.xml</scope>
+    <description>sap.m.Bar XML</description>
+    <content><![CDATA[
+<Bar>
+    <items>
+        ${1:}
+    </items>
+</Bar>
+]]></content>
+</snippet>
